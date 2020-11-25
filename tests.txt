@@ -1,0 +1,9 @@
+
+10,000 GAMES AGAINST RANDOM OPPONENT:
+    wins: 9081
+    loses: 919
+
+108 GAMES AGAINST A HUMAN PLAYER:
+    wins: 74
+    loses: 34
+
